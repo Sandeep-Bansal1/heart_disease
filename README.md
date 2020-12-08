@@ -40,7 +40,7 @@ Assignment Submitted: December 2020
 
 ## Proposed Methodology of Modeling:
 - Logistic regression is one such regression algorithm which can be used for performing classification problems. It calculates the probability that a given value belongs to a specific class. If the probability is more than 50%, it assigns the value in that particular class else if the probability is less than 50%, the value is assigned to the other class. Therefore, we can say that logistic regression acts as a binary classifier.
-- For this project we will calculate the probability that a patient has diabetes which will be labeled the dependent variable. 0 = Not risk for CHD, 1 = Patient Risk for CHD
+- For this project we will calculate the probability that a patient has CHD which will be labeled the dependent variable. 0 = Not risk for CHD, 1 = Patient Risk for CHD
 ---
 ## Results and Primary Findings:
  ---
@@ -50,10 +50,10 @@ Assignment Submitted: December 2020
 | **Precision** | 0.53 |
 | **F1_Score** | 0.13 |
 | **Recall** | 0.76 |
-- Accuracy: Help us determine or predict the true diabetic person out of the population. It is the fraction of predicted diabetic patients that the model got right.
-- Precision: ssists to determine what are the relevant positive diabetic patients out of entire positive diabetic predictions.If what you have predicted and actual are matching. ) 
+- Accuracy: Help us determine or predict the true CHD person out of the population. It is the fraction of predicted CHD patients that the model got right.
+- Precision: ssists to determine what are the relevant positive CHD patients out of entire positive CHD predictions.If what you have predicted and actual are matching. ) 
 - F1_Score: Harmonic mean of precision and recall. We consider F1_score because it balances between precision and recall.
-- Recall: Fraction of actual diabetic patients to the number of diabetic patients retrieved from population.
+- Recall: Fraction of actual CHD patients to the number of CHD patients retrieved from population.
 
 #  <div align="center"> ![alt text](ROC.png)
   - Measure of model and how it can distinguish two seperate groups under the target variable. The more area under the curve the better the model.
