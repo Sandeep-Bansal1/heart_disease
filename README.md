@@ -55,6 +55,7 @@ Assignment Submitted: December 2020
 - F1_Score: Harmonic mean of precision and recall. We consider F1_score because it balances between precision and recall.
 - Recall: Fraction of actual CHD patients to the number of CHD patients retrieved from population.
 
+- The area under the ROC curve quantifies model classification accuracy; the higher the area, the greater the disparity between true and false positives, and the stronger the model in classifying members of the training dataset. An area of 0.5 corresponds to a model that performs no better than random classification and a good classifier stays as far away from that as possible. An area of 1 is ideal. The closer the AUC to 1 the better.
 #  <div align="center"> ![alt text](ROC.png)
   - Measure of model and how it can distinguish two seperate groups under the target variable. The more area under the curve the better the model.
 ---
