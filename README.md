@@ -19,7 +19,7 @@ Assignment Submitted: December 2020
 - <b>Research</b> 
   -World Health Organization has estimated 12 million deaths occur worldwide, every year due to Heart diseases. Half the deaths in the United States and other developed countries are due to cardio vascular diseases. The early prognosis of cardiovascular diseases can aid in making decisions on lifestyle changes in high risk patients and in turn reduce the complications. This research intends to pinpoint the most relevant/risk factors of heart disease as well as predict the overall risk using logistic regression.The remaining research can be found 
   [here](https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds))
-  - If you are unfamiliar with Diabetes and its disease process please check out **Heart Disease Pathophysiology video which can be found** [here](https://www.youtube.com/watch?v=lTCF8y7e1Bw)
+  - If you are unfamiliar with heart health and its disease process please check out **Heart Disease Pathophysiology video which can be found** [here](https://www.youtube.com/watch?v=lTCF8y7e1Bw)
   
 ## Buisness Objective </b> 
 - Using Logistic Regression can we pinpoint the most relevant/risk factors of heart disease as well as predict the overall risk?
