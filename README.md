@@ -1,5 +1,5 @@
-# heart_disease
-# <div align="center"> Exploring risk factors of Diabetes
+
+# <div align="center"> Predict whether patients have 10-year risk of future coronary heart disease (CHD)
 ![alt text](https://github.com/Sandeep-Bansal1/Diabetes_Project/blob/main/Diabetes%20image.png) <pre>
 Contrubuter  : Sandeep Bansal
 </pre>
