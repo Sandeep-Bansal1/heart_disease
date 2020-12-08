@@ -55,7 +55,7 @@ Assignment Submitted: December 2020
 - F1_Score: Harmonic mean of precision and recall. We consider F1_score because it balances between precision and recall.
 - Recall: Fraction of actual diabetic patients to the number of diabetic patients retrieved from population.
 
-#  <div align="center"> ![alt text](https://github.com/Sandeep-Bansal1/Diabetes_Project/blob/main/ROC%20curve.png?raw=true)
+#  <div align="center"> ![alt text](ROC.png)
   - Measure of model and how it can distinguish two seperate groups under the target variable. The more area under the curve the better the model.
 ---
 ## Limitations and Future work:
