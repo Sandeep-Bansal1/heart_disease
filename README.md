@@ -1,5 +1,5 @@
 
-# <div align="center"> Predict whether patients have 10-year risk of future coronary heart disease (CHD)
+# <div align="center"> Predict whether patients have risk of future coronary heart disease (CHD)
 ![alt text](https://github.com/Sandeep-Bansal1/heart_disease/blob/main/heart%20cover%20picture.png?raw=true) <pre>
 Contrubuter  : Sandeep Bansal
 </pre>
