@@ -34,8 +34,8 @@ Assignment Submitted: December 2020
   
 ---
 ## Motivation: 
-- Approximately 623,041 people in Maryland, or 12.6% of the adult population, have diabetes. Of these, an estimated 156,000 have diabetes butare unaware of it, greatly increasing their health risk. In addition, 1,634,000 people in Maryland, 36.9% of the adult population, have prediabetes with blood glucose levels higher than normal but not yet high enough to be diagnosed as diabetes. 
-# <div align="center"> ![alt text](Diabetes_Maryland_Chart.png)
+- Cardiovascular diseases (CVDs) are the number 1 cause of death globally, taking an estimated 17.9 million lives each year. CVDs are a group of disorders of the heart and blood vessels and include coronary heart disease, cerebrovascular disease, rheumatic heart disease and other conditions.
+
 ---
 
 ## Proposed Methodology of Modeling:
