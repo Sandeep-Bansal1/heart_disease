@@ -46,6 +46,7 @@ Assignment Submitted: December 2020
  ---
 | Model | Evaluation |
 | --- | --- |
+| **Accuracy** | 0.85 |
 | **Precision** | 0.53 |
 | **F1_Score** | 0.13 |
 | **Recall** | 0.76 |
