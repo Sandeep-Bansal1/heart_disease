@@ -30,7 +30,7 @@ Assignment Submitted: December 2020
 - Of these deaths, 85% are due to heart attack and stroke.
 - Over three quarters of CVD deaths take place in low- and middle-income countries.
 - Out of the 17 million premature deaths (under the age of 70) due to noncommunicable diseases in 2015, 82% are in low- and middle-income countries, and 37% are caused by CVDs.
-#  <div align="center"> ![alt text](https://github.com/Sandeep-Bansal1/Diabetes_Project/blob/main/Diabetes%20Global%20Impact%20.png?raw=true)
+#  <div align="center"> ![alt text](https://github.com/Sandeep-Bansal1/heart_disease/blob/main/heart-attack-diagnostics.png?raw=true)
   
 ---
 ## Motivation: 
