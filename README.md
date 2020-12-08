@@ -15,17 +15,21 @@ Assignment Submitted: December 2020
 </pre></b>
 ---
 ## Project Overview
-- <b>Data</b> - Two datasets were used for modeling and reference. The raw dataset can be found on the Kaggle website, [here](https://www.kaggle.com/amanajmera1/framingham-heart-study-dataset). 
+- <b>Data</b> -The raw dataset can be found on the Kaggle website, [here](https://www.kaggle.com/amanajmera1/framingham-heart-study-dataset). 
 - <b>Research</b> 
-  - Emma Wilmot Department of Diabetes & Endocrinology & Iskandar Idris Royal Derby Hospital and Division of Medical Sciences & Graduate Entry Medicine, University   of Nottingham Title: "Early onset type 2 diabetes: risk factors, clinical impact and management" can be found 
-  [here](https://journals.sagepub.com/doi/full/10.1177/2040622314548679)
+  -World Health Organization has estimated 12 million deaths occur worldwide, every year due to Heart diseases. Half the deaths in the United States and other developed countries are due to cardio vascular diseases. The early prognosis of cardiovascular diseases can aid in making decisions on lifestyle changes in high risk patients and in turn reduce the complications. This research intends to pinpoint the most relevant/risk factors of heart disease as well as predict the overall risk using logistic regression.The remaining research can be found 
+  [here](https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds))
   - If you are unfamiliar with Diabetes and its disease process please check out **my Diabetes Pathophysiology video which can be found** [here](https://www.youtube.com/watch?v=QaDSHYmdpyU&feature=youtu.be)
-  - Smith, J.W., Everhart, J.E., Dickson, W.C., Knowler, W.C., & Johannes, R.S. (1988). Using the ADAP learning algorithm to forecast the onset of diabetes mellitus. In Proceedings of the Symposium on Computer Applications and Medical Care (pp. 261--265). IEEE Computer Society Press.
+  
 ## Buisness Objective </b> 
-- Using Logistic Regression can a machine learning model accurately predict whether or not the patients in the dataset have diabetes or not?
+- Using Logistic Regression can we pinpoint the most relevant/risk factors of heart disease as well as predict the overall risk?
 ---
 ## Abstract and Introduction:
-- The worldwide prevalence of DM has risen dramatically over the past two decades, from an estimated 30 million cases in 1985 to 415 million in 2017. According to the article titled "Early onset of type 2 diabetes: risk factorsm clinical impact and management", statistics state the Global estimate for Diabetes Mellitus is approximatly 415 million in 2017. Regional estimates of the number of individuals with diabetes (20–79 years of age) are shown (2017).Based on current trends, the IDF projects that 642 million individuals will have diabetes by the year 2040.
+- CVDs are the number 1 cause of death globally: more people die annually from CVDs than from any other cause.
+- An estimated 17.9 million people died from CVDs in 2016, representing 31% of all global deaths. 
+- Of these deaths, 85% are due to heart attack and stroke.
+- Over three quarters of CVD deaths take place in low- and middle-income countries.
+- Out of the 17 million premature deaths (under the age of 70) due to noncommunicable diseases in 2015, 82% are in low- and middle-income countries, and 37% are caused by CVDs.
 #  <div align="center"> ![alt text](https://github.com/Sandeep-Bansal1/Diabetes_Project/blob/main/Diabetes%20Global%20Impact%20.png?raw=true)
   
 ---
