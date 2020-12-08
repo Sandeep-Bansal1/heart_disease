@@ -61,15 +61,14 @@ Assignment Submitted: December 2020
 ## Limitations and Future work:
   - 
 ---
-## Conclusion and summary:
-  - 
- 
+## Conclusion and summary: 
+- Men seem to be more susceptible to heart disease than women.Increase in Age,number of cigarettes smoked per day and systolic Blood Pressure also show increasing odds of having heart disease
+- The model predicted with 0.85 accuracy. The model is more specific than sensitive
+- The Area under the ROC curve is 71.4 which is somewhat satisfactory.The Area under the ROC curve is 71.4 which is somewhat satisfactory.
 ---
 ## References and contributions:
 
-1. 
-2. 
-3. 
-4. 
+1. Dataset https://www.kaggle.com/amanajmera1/framingham-heart-study-dataset
+2. World Health Organization https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds3. 
+4. Cardiovascular Youtube Video: https://www.youtube.com/watch?v=lTCF8y7e1Bw5. 
 5. Professor Murat Guner: https://github.com/mguner/UMBC_DATA602/tree/master/Week-4
-6. 
