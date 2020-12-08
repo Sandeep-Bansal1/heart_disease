@@ -11,11 +11,11 @@ Libraries: pandas, matplotlib, numpy, sklearn, seaborn
 </pre>
 
 <pre>
-Assignment Submitted: October 2020
+Assignment Submitted: December 2020
 </pre></b>
 ---
 ## Project Overview
-- <b>Data</b> - Two datasets were used for modeling and reference. The raw dataset can be found on the Kaggle website, [here](https://www.kaggle.com/uciml/pima-indians-diabetes-database). The Maryland Dataset can be found [here](https://opendata.maryland.gov/Health-and-Human-Services/Number-of-Diabetes-Deaths-among-Maryland-Residents/smru-f5wc)
+- <b>Data</b> - Two datasets were used for modeling and reference. The raw dataset can be found on the Kaggle website, [here](https://www.kaggle.com/amanajmera1/framingham-heart-study-dataset). 
 - <b>Research</b> 
   - Emma Wilmot Department of Diabetes & Endocrinology & Iskandar Idris Royal Derby Hospital and Division of Medical Sciences & Graduate Entry Medicine, University   of Nottingham Title: "Early onset type 2 diabetes: risk factors, clinical impact and management" can be found 
   [here](https://journals.sagepub.com/doi/full/10.1177/2040622314548679)
