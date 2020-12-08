@@ -59,7 +59,7 @@ Assignment Submitted: December 2020
   - Measure of model and how it can distinguish two seperate groups under the target variable. The more area under the curve the better the model.
 ---
 ## Limitations and Future work:
-  - 
+  - Improve accuracy score and improve outlier removal technique. 
 ---
 ## Conclusion and summary: 
 - Men seem to be more susceptible to heart disease than women.Increase in Age,number of cigarettes smoked per day and systolic Blood Pressure also show increasing odds of having heart disease
