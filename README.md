@@ -72,4 +72,5 @@ Assignment Submitted: December 2020
 1. Dataset https://www.kaggle.com/amanajmera1/framingham-heart-study-dataset
 2. World Health Organization https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds3. 
 4. Cardiovascular Youtube Video: https://www.youtube.com/watch?v=lTCF8y7e1Bw5. 
-5. Professor Murat Guner: https://github.com/mguner/UMBC_DATA602/tree/master/Week-4
+5. Reference Project Notebook https://www.kaggle.com/amanajmera1/framingham-heart-study-dataset/notebooks
+6. Professor Murat Guner: https://github.com/mguner/UMBC_DATA602/tree/master/Week-4
