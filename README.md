@@ -3,7 +3,6 @@
 ![alt text](https://github.com/Sandeep-Bansal1/heart_disease/blob/main/heart%20cover%20picture.png?raw=true) <pre>
 Contrubuter  : Sandeep Bansal
 </pre>
-##########
 <pre>
 Languages: Python
 Tools/IDE: Anaconda
